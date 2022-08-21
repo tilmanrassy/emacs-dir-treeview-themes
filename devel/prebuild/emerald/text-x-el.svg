@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="text-x-el.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8.4067797"
+     inkscape:cy="8.5762712"
+     inkscape:window-width="887"
+     inkscape:window-height="630"
+     inkscape:window-x="248"
+     inkscape:window-y="340"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.7216px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;stroke-width:1.71519"
+     x="1.3257238"
+     y="11.541837"
+     id="text1112"
+     transform="scale(0.8318098,1.2021979)"><tspan
+       sodipodi:role="line"
+       id="tspan1110"
+       x="1.3257238"
+       y="11.541837"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable';fill:#800080;stroke-width:1.71519">el</tspan></text>
+</svg>

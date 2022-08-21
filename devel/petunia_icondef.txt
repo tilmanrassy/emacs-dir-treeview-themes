@@ -1,0 +1,56 @@
+
+# name                                                     pkg          path                                                                     transf  
+# ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  application-pdf.png                                      emerald      Emerald/mimetypes/16/application-pdf.svg                                 svg_to_png
+  application-postscript.png                               emerald      Emerald/mimetypes/16/application-postscript.svg                          svg_to_png
+  application-vnd.oasis.opendocument.database.png          emerald      Emerald/mimetypes/16/application-vnd.oasis.opendocument.database.svg     svg_to_png
+  application-x-cd-image.png                               emerald      Emerald/mimetypes/16/application-x-cd-image.svg                          svg_to_png
+  application-x-compressed-tar.png                         emerald      Emerald/mimetypes/16/application-x-compressed-tar.svg                    svg_to_png
+  application-x-deb.png                                    emerald      Emerald/mimetypes/16/application-x-deb.svg                               svg_to_png
+  application-x-executable.png                             emerald      Emerald/mimetypes/16/application-x-executable.svg                        svg_to_png
+  application-x-font-afm.png                               emerald      Emerald/mimetypes/16/application-x-font-afm.svg                          svg_to_png
+  application-x-font-otf.png                               emerald      Emerald/mimetypes/16/application-x-font-otf.svg                          svg_to_png
+  application-x-font-ttf.png                               emerald      Emerald/mimetypes/16/application-x-font-ttf.svg                          svg_to_png
+  application-x-gzip.png                                   emerald      Emerald/mimetypes/16/application-x-gzip.svg                              svg_to_png
+  application-x-java.png                                   emerald      Emerald/mimetypes/16/application-x-java.svg                              svg_to_png
+  application-x-java-archive.png                           emerald      Emerald/mimetypes/16/application-x-java-archive.svg                      svg_to_png
+  application-x-javascript.png                             emerald      Emerald/mimetypes/16/application-x-javascript.svg                        svg_to_png
+  application-x-perl.png                                   emerald      Emerald/mimetypes/16/application-x-perl.svg                              svg_to_png
+  application-x-php.png                                    emerald      Emerald/mimetypes/16/application-x-php.svg                               svg_to_png
+  application-x-python-bytecode.png                        emerald      Emerald/mimetypes/16/application-x-python-bytecode.svg                   svg_to_png
+  application-x-rpm.png                                    emerald      Emerald/mimetypes/16/application-x-rpm.svg                               svg_to_png
+  application-x-sharedlib.png                              emerald      Emerald/mimetypes/16/application-x-sharedlib.svg                         svg_to_png
+  application-x-zerosize.png                               emerald      Emerald/mimetypes/16/application-x-zerosize.svg                          svg_to_png
+  application-x-elc.png                                    emerald      Emerald/mimetypes/16/text-x-csrc.svg                                     text_js_to_elc svg_to_png
+  application-x-cobj.png                                   emerald      Emerald/mimetypes/16/text-x-csrc.svg                                     text_c_to_o svg_to_png
+  audio-x-generic.png                                      emerald      Emerald/mimetypes/16/audio-x-generic.svg                                 svg_to_png
+  folder.png                                               tela         src/16/places/folder.svg                                                 svg_to_png
+  folder-download.png                                      tela         src/16/places/folder-download.svg                                        svg_to_png
+  folder-pictures.png                                      tela         src/16/places/folder-pictures.svg                                        svg_to_png
+  folder-open.png                                          tela         src/16/places/folder-open.svg                                            svg_to_png
+  folder-video.png                                         tela         src/16/places/folder-video.svg                                           svg_to_png
+  image-x-generic.png                                      emerald      Emerald/mimetypes/16/image-x-generic.svg                                 svg_to_png
+  package-x-generic.png                                    emerald      Emerald/mimetypes/16/package-x-generic.svg                               svg_to_png
+  text-html.png                                            emerald      Emerald/mimetypes/16/text-html.svg                                       svg_to_png
+  text-plain.png                                           emerald      Emerald/mimetypes/16/text-plain.svg                                      svg_to_png
+  text-x-c++hdr.png                                        emerald      Emerald/mimetypes/16/text-x-c++hdr.svg                                   svg_to_png
+  text-x-c++src.png                                        emerald      Emerald/mimetypes/16/text-x-c++src.svg                                   svg_to_png
+  text-x-chdr.png                                          emerald      Emerald/mimetypes/16/text-x-chdr.svg                                     svg_to_png
+  text-x-csrc.png                                          emerald      Emerald/mimetypes/16/text-x-csrc.svg                                     svg_to_png
+  text-x-script.png                                        emerald      Emerald/mimetypes/16/text-x-script.svg                                   svg_to_png
+  text-x-tex.png                                           emerald      Emerald/mimetypes/16/text-x-tex.svg                                      svg_to_png
+  text-xml.png                                             emerald      Emerald/mimetypes/16/text-xml.svg                                        svg_to_png
+  text-x-el.png                                            emerald      Emerald/mimetypes/16/text-x-csrc.svg                                     text_js_to_el svg_to_png
+  user-home.png                                            tela         src/16/places/user-home.svg                                              svg_to_png
+  video.png                                                emerald      Emerald/mimetypes/16/video.svg                                           svg_to_png
+  video-x-generic.png                                      emerald      Emerald/mimetypes/16/video-x-generic.svg                                 svg_to_png
+  video-x-matroska.png                                     emerald      Emerald/mimetypes/16/video-x-matroska.svg                                svg_to_png
+  video-x-wmv.png                                          emerald      Emerald/mimetypes/16/video-x-wmv.svg                                     svg_to_png
+  x-office-document.png                                    emerald      Emerald/mimetypes/16/x-office-document.svg                               svg_to_png
+  x-office-document.png                                    emerald      Emerald/mimetypes/16/x-office-document.svg                               svg_to_png
+  x-office-drawing.png                                     emerald      Emerald/mimetypes/16/x-office-drawing.svg                                svg_to_png
+  x-office-presentation.png                                emerald      Emerald/mimetypes/16/x-office-presentation.svg                           svg_to_png
+  x-office-spreadsheet.png                                 emerald      Emerald/mimetypes/16/x-office-spreadsheet.svg                            svg_to_png
+  xml.png                                                  emerald      Emerald/mimetypes/16/xml.svg                                             svg_to_png
+  zip.png                                                  emerald      Emerald/mimetypes/16/zip.svg                                             svg_to_png
+  

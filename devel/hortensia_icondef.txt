@@ -1,0 +1,52 @@
+
+# name                                                     pkg          path                                                                                       transf  
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  folder-downloads.png                                     oxygen       scalable/places/small/16x16/folder-downloads.svgz                                          svg_to_png
+  folder-image.png                                         oxygen       scalable/places/small/16x16/folder-image.svgz                                              svg_to_png
+  folder-red.png                                           oxygen       scalable/places/small/16x16/folder-red.svgz                                                svg_to_png
+  folder-video.png                                         oxygen       scalable/places/small/16x16/folder-video.svgz                                              svg_to_png
+  folder.png                                               oxygen       scalable/places/small/16x16/folder.svgz                                                    svg_to_png
+  user-home.png                                            oxygen       scalable/places/small/16x16/user-home.svgz                                                 svg_to_png
+  folder-open.png                                          oxygen       scalable/status/small/16x16/folder-open.svgz                                               svg_to_png
+  application-pdf.png                                      oxygen       scalable/mimetypes/small/16x16/application-pdf.svgz                                        change_bgcolor svg_to_png
+  application-postscript.png                               oxygen       scalable/mimetypes/small/16x16/application-postscript.svgz                                 change_bgcolor svg_to_png
+  application-vnd.oasis.opendocument.presentation.png      oxygen       scalable/mimetypes/small/16x16/application-vnd.oasis.opendocument.presentation.svgz        change_bgcolor svg_to_png
+  application-vnd.oasis.opendocument.spreadsheet.png       oxygen       scalable/mimetypes/small/16x16/application-vnd.oasis.opendocument.spreadsheet.svgz         change_bgcolor svg_to_png
+  application-vnd.stardivision.draw.png                    oxygen       scalable/mimetypes/small/16x16/application-vnd.stardivision.draw.svgz                      change_bgcolor svg_to_png
+  application-x-applix-word.png                            oxygen       scalable/mimetypes/small/16x16/application-x-applix-word.svgz                              change_bgcolor svg_to_png
+  application-x-ar.png                                     oxygen       scalable/mimetypes/small/16x16/application-x-ar.svgz                                       change_bgcolor svg_to_png
+  application-x-cd-image.png                               oxygen       scalable/mimetypes/small/16x16/application-x-cd-image.svgz                                 change_bgcolor svg_to_png
+  application-x-compressed-tar.png                         oxygen       scalable/mimetypes/small/16x16/application-x-compressed-tar.svgz                           change_bgcolor svg_to_png
+  application-x-deb.png                                    oxygen       scalable/mimetypes/small/16x16/application-x-deb.svgz                                      change_bgcolor svg_to_png
+  application-x-executable.png                             oxygen       scalable/mimetypes/small/16x16/application-x-executable.svgz                               svg_to_png
+  application-x-font-afm.png                               oxygen       scalable/mimetypes/small/16x16/application-x-font-afm.svgz                                 change_bgcolor svg_to_png
+  application-x-font-otf.png                               oxygen       scalable/mimetypes/small/16x16/application-x-font-otf.svgz                                 change_bgcolor svg_to_png
+  application-x-font-ttf.png                               oxygen       scalable/mimetypes/small/16x16/application-x-font-ttf.svgz                                 change_bgcolor svg_to_png
+  application-x-gzip.png                                   oxygen       scalable/mimetypes/small/16x16/application-x-gzip.svgz                                     change_bgcolor svg_to_png
+  application-x-java-archive.png                           oxygen       scalable/mimetypes/small/16x16/application-x-java-archive.svgz                             change_bgcolor svg_to_png
+  application-x-java.png                                   oxygen       scalable/mimetypes/small/16x16/application-x-java.svgz                                     change_bgcolor svg_to_png
+  application-x-javascript.png                             oxygen       scalable/mimetypes/small/16x16/application-x-javascript.svgz                               change_bgcolor svg_to_png
+  application-x-perl.png                                   oxygen       scalable/mimetypes/small/16x16/application-x-perl.svgz                                     change_bgcolor svg_to_png
+  application-x-php.png                                    oxygen       scalable/mimetypes/small/16x16/application-x-php.svgz                                      change_bgcolor svg_to_png
+  application-x-rpm.png                                    oxygen       scalable/mimetypes/small/16x16/application-x-rpm.svgz                                      change_bgcolor svg_to_png
+  application-x-sharedlib.png                              oxygen       scalable/mimetypes/small/16x16/application-x-sharedlib.svgz                                change_bgcolor svg_to_png
+  application-x-shellscript.png                            oxygen       scalable/mimetypes/small/16x16/application-x-shellscript.svgz                              change_bgcolor svg_to_png
+  application-x-zerosize.png                               oxygen       scalable/mimetypes/small/16x16/application-x-zerosize.svgz                                 change_bgcolor svg_to_png
+  application-xml.png                                      oxygen       scalable/mimetypes/small/16x16/application-xml.svgz                                        change_bgcolor svg_to_png
+  audio-x-generic.png                                      oxygen       scalable/mimetypes/small/16x16/audio-x-generic.svgz                                        change_bgcolor svg_to_png
+  image-x-generic.png                                      oxygen       scalable/mimetypes/small/16x16/image-x-generic.svgz                                        change_bgcolor svg_to_png
+  text-html.png                                            oxygen       scalable/mimetypes/small/16x16/text-html.svgz                                              change_bgcolor svg_to_png
+  text-plain.png                                           oxygen       scalable/mimetypes/small/16x16/text-plain.svgz                                             change_bgcolor svg_to_png
+  text-x-c++hdr.png                                        oxygen       scalable/mimetypes/small/16x16/text-x-c++hdr.svgz                                          change_bgcolor svg_to_png
+  text-x-c++src.png                                        oxygen       scalable/mimetypes/small/16x16/text-x-c++src.svgz                                          change_bgcolor svg_to_png
+  text-x-chdr.png                                          oxygen       scalable/mimetypes/small/16x16/text-x-chdr.svgz                                            change_bgcolor svg_to_png
+  text-x-csrc.png                                          oxygen       scalable/mimetypes/small/16x16/text-x-csrc.svgz                                            change_bgcolor svg_to_png
+  text-x-python.png                                        oxygen       scalable/mimetypes/small/16x16/text-x-python.svgz                                          change_bgcolor svg_to_png
+  text-x-sql.png                                           oxygen       scalable/mimetypes/small/16x16/text-x-sql.svgz                                             change_bgcolor svg_to_png
+  text-x-tex.png                                           oxygen       scalable/mimetypes/small/16x16/text-x-tex.svgz                                             change_bgcolor svg_to_png
+  text-x-el.png                                            oxygen       scalable/mimetypes/small/16x16/application-x-javascript.svgz                               text_js_to_el change_bgcolor svg_to_png
+  application-x-elc.png                                    oxygen       scalable/mimetypes/small/16x16/application-x-javascript.svgz                               text_js_to_elc change_bgcolor svg_to_png
+  application-x-cobj.png                                   oxygen       scalable/mimetypes/small/16x16/text-x-csrc.svgz                                            text_c_to_o change_bgcolor svg_to_png
+  video-x-generic.png                                      oxygen       scalable/mimetypes/small/16x16/video-x-generic.svgz                                        change_bgcolor svg_to_png
+  x-office-document.png                                    oxygen       scalable/mimetypes/small/16x16/x-office-document.svgz                                      change_bgcolor svg_to_png
+  
