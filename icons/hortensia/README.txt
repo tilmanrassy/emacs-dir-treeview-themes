@@ -53,12 +53,12 @@ application-postscript.png
     Source icon: scalable/mimetypes/small/16x16/application-postscript.svgz
     Modifications: changed background color, converted to PNG
 
-application-vnd.oasis.opendocument.presentation.png
+application-x-presentation.png
     Source package: Oxygen
     Source icon: scalable/mimetypes/small/16x16/application-vnd.oasis.opendocument.presentation.svgz
     Modifications: changed background color, converted to PNG
 
-application-vnd.oasis.opendocument.spreadsheet.png
+application-x-spreadsheet.png
     Source package: Oxygen
     Source icon: scalable/mimetypes/small/16x16/application-vnd.oasis.opendocument.spreadsheet.svgz
     Modifications: changed background color, converted to PNG

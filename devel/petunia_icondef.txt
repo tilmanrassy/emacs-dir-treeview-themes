@@ -3,7 +3,7 @@
 # ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   application-pdf.png                                      emerald      Emerald/mimetypes/16/application-pdf.svg                                 svg_to_png
   application-postscript.png                               emerald      Emerald/mimetypes/16/application-postscript.svg                          svg_to_png
-  application-vnd.oasis.opendocument.database.png          emerald      Emerald/mimetypes/16/application-vnd.oasis.opendocument.database.svg     svg_to_png
+  application-x-opendoc-database.png                       emerald      Emerald/mimetypes/16/application-vnd.oasis.opendocument.database.svg     svg_to_png
   application-x-cd-image.png                               emerald      Emerald/mimetypes/16/application-x-cd-image.svg                          svg_to_png
   application-x-compressed-tar.png                         emerald      Emerald/mimetypes/16/application-x-compressed-tar.svg                    svg_to_png
   application-x-deb.png                                    emerald      Emerald/mimetypes/16/application-x-deb.svg                               svg_to_png

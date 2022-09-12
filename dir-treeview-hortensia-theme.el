@@ -43,8 +43,8 @@
      ("\\.elc$"                                           .  "image hortensia/application-x-elc.png")
      ("\\.o$"                                             .  "image hortensia/application-x-cobj.png")
      ("\\.\\(?:odt\\|doc\\|docx\\)$"                      .  "image hortensia/x-office-document.png")
-     ("\\.\\(?:ods\\|xls\\|xlsx\\)$"                      .  "image hortensia/application-vnd.oasis.opendocument.spreadsheet.png")
-     ("\\.\\(?:odp\\|pp|\\ppx\\)$"                        .  "image hortensia/application-vnd.oasis.opendocument.presentation.png")
+     ("\\.\\(?:ods\\|xls\\|xlsx\\)$"                      .  "image hortensia/application-x-spreadsheet.png")
+     ("\\.\\(?:odp\\|pp|\\ppx\\)$"                        .  "image hortensia/application-x-presentation.png")
      ("\\.odg$"                                           .  "image hortensia/application-vnd.stardivision.draw.png")
      )))
 

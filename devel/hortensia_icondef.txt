@@ -10,8 +10,8 @@
   folder-open.png                                          oxygen       scalable/status/small/16x16/folder-open.svgz                                               svg_to_png
   application-pdf.png                                      oxygen       scalable/mimetypes/small/16x16/application-pdf.svgz                                        change_bgcolor svg_to_png
   application-postscript.png                               oxygen       scalable/mimetypes/small/16x16/application-postscript.svgz                                 change_bgcolor svg_to_png
-  application-vnd.oasis.opendocument.presentation.png      oxygen       scalable/mimetypes/small/16x16/application-vnd.oasis.opendocument.presentation.svgz        change_bgcolor svg_to_png
-  application-vnd.oasis.opendocument.spreadsheet.png       oxygen       scalable/mimetypes/small/16x16/application-vnd.oasis.opendocument.spreadsheet.svgz         change_bgcolor svg_to_png
+  application-x-presentation.png                           oxygen       scalable/mimetypes/small/16x16/application-vnd.oasis.opendocument.presentation.svgz        change_bgcolor svg_to_png
+  application-x-spreadsheet.png                            oxygen       scalable/mimetypes/small/16x16/application-vnd.oasis.opendocument.spreadsheet.svgz         change_bgcolor svg_to_png
   application-vnd.stardivision.draw.png                    oxygen       scalable/mimetypes/small/16x16/application-vnd.stardivision.draw.svgz                      change_bgcolor svg_to_png
   application-x-applix-word.png                            oxygen       scalable/mimetypes/small/16x16/application-x-applix-word.svgz                              change_bgcolor svg_to_png
   application-x-ar.png                                     oxygen       scalable/mimetypes/small/16x16/application-x-ar.svgz                                       change_bgcolor svg_to_png

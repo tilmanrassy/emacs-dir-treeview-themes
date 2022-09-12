@@ -38,7 +38,7 @@
      ("\\.c$"                                             .  "image petunia/text-x-csrc.png")
      ("\\.o$"                                             .  "image petunia/application-x-cobj.png")
      ("\\.py$"                                            .  "image petunia/text-x-python-bytecode.png")
-     ("\\.sql$"                                           .  "image petunia/application-vnd.oasis.opendocument.database.png")
+     ("\\.sql$"                                           .  "image petunia/application-x-opendoc-database.png")
      ("\\.tex$"                                           .  "image petunia/text-x-tex.png")
      ("\\.el$"                                            .  "image petunia/text-x-el.png")
      ("\\.elc$"                                           .  "image petunia/application-x-elc.png")
