@@ -26,7 +26,7 @@ application-postscript.png
     Source icon: Emerald/mimetypes/16/application-postscript.svg
     Modifications: converted to PNG
 
-application-vnd.oasis.opendocument.database.png
+application-x-opendoc-database.png
     Source package: Emerald
     Source icon: Emerald/mimetypes/16/application-vnd.oasis.opendocument.database.svg
     Modifications: converted to PNG
