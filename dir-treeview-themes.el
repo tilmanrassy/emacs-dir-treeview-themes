@@ -4,7 +4,7 @@
 
 ;; Author: Tilman Rassy <tilman.rassy@googlemail.com>
 ;; URL: https://github.com/tilmanrassy/emacs-dir-treeview-themes
-;; Version: 1.0.0
+;; Version: 1.0.1
 ;; Package-Requires: ((emacs "24.4") (dir-treeview "1.3.2"))
 ;; Keywords: tools, convenience, files
 
@@ -34,6 +34,6 @@
 
 ;;; Code:
 
-;; No code here, this file only exists to provide the meta information for MELPA.
+;; No code here, this file only exists to provide the meta information for package.  All code is included in the theme files.
 
 ;;; dir-treeview-themes.el ends here

@@ -3,6 +3,8 @@ emacs-dir-treeview-themes
 
 Themes for [emacs-dir-treeview](https://github.com/tilmanrassy/emacs-dir-treeview), a file browser and manager for Emacs.
 
+This document describes version 1.0.1 of emacs-dir-treeview-themes.
+
 * [Overview](#overview)
 * [Screenshots](#screenshots)
   * [Theme 'Hortensia'](#theme-hortensia)
@@ -58,4 +60,7 @@ You can also copy the `icons` folder to any other location. In that case, add th
 
 For enabling the themes, see section  [Enabling themes](https://github.com/tilmanrassy/emacs-dir-treeview#enabling-themes) in the
 documentation of [emacs-dir-treeview](https://github.com/tilmanrassy/emacs-dir-treeview).
+
+Note: There is also a file `dir-treeview-themes.el`in the repo, but it contains no code. It only exists to provide the meta information
+for the MELPA package. It is not needed at run time, so there is no need to install it anywhere on your computer. You can ignore it.
 
