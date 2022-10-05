@@ -62,5 +62,5 @@ For enabling the themes, see section  [Enabling themes](https://github.com/tilma
 documentation of [emacs-dir-treeview](https://github.com/tilmanrassy/emacs-dir-treeview).
 
 Note: There is also a file `dir-treeview-themes.el`in the repo, but it contains no code. It only exists to provide the meta information
-for the MELPA package. It is not needed at run time, so there is no need to install it anywhere on your computer. You can ignore it.
+for the MELPA package. It is not needed at runtime, so there is no need to install it anywhere on your computer. You can ignore it.
 
