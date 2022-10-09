@@ -1,2 +1,4 @@
 /devel/thirdparty/**
 !/devel/thirdparty/.gitkeep
+*.elc
+

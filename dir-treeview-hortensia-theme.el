@@ -1,6 +1,32 @@
+;;; dir-treeview-hortensia-theme.el --- A dir-treeview theme with icons based on the Oxygen icon set -*- lexical-binding: t -*-
+
+;; Copyright (C) 2022 Tilman Rassy <tilman.rassy@googlemail.com>
+
+;; This program is free software; you can redistribute it and/or modify
+;; it under the terms of the GNU General Public License as published by
+;; the Free Software Foundation, either version 3 of the License, or
+;; (at your option) any later version.
+
+;; This program is distributed in the hope that it will be useful,
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+;; GNU General Public License for more details.
+
+;; You should have received a copy of the GNU General Public License
+;; along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+;;; Commentary:
+
+;; A theme for the "dir-treeview" package.  Uses pixmap icons from the "Oxygen"
+;; icon set (see https://github.com/KDE/oxygen-icons5).
+;;
+;; The theme is suitable for graphical displays only.  Thus, on text displays
+;; all settings of the theme are ignored, and the theme has no effect.
+
+;;; Code:
 
 (deftheme dir-treeview-hortensia
-  "A dir-treeview theme with icons based on the KDE Oxygen icon set.")
+  "A dir-treeview theme with icons based on the Oxygen icon set.")
   
 (custom-theme-set-variables
  'dir-treeview-hortensia

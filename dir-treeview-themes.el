@@ -27,13 +27,17 @@
 ;; (cf. https://github.com/tilmanrassy/emacs-dir-treeview).
 
 ;; Provides two themes, "Hortensia" and "Petunia".
-;; Visit https://github.com/tilmanrassy/emacs-dir-treeview-themes for screenshots.
+;; Visit https://github.com/tilmanrassy/emacs-dir-treeview-themes for
+;; screenshots.
 
-;; The themes use pixmap icons based on the "Oxygen", "Emerald", and "Tela" icon themes (see https://github.com/KDE/oxygen-icons5,
-;; https://github.com/vinceliuice/emerald-icon-theme, and https://github.com/vinceliuice/Tela-icon-theme, respectively).
+;; The themes use pixmap icons based on the "Oxygen", "Emerald", and "Tela" icon
+;; themes (see https://github.com/KDE/oxygen-icons5,
+;; https://github.com/vinceliuice/emerald-icon-theme, and
+;; https://github.com/vinceliuice/Tela-icon-theme, respectively).
 
 ;;; Code:
 
-;; No code here, this file only exists to provide the meta information for package.  All code is included in the theme files.
+;; No code here, this file only exists to provide the meta information for package.
+;; All code is included in the theme files.
 
 ;;; dir-treeview-themes.el ends here
