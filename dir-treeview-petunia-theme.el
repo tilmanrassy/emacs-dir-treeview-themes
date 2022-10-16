@@ -72,8 +72,7 @@
      ("\\.\\(?:odt\\|doc\\|docx\\)$"                      .  "image petunia/x-office-document.png")
      ("\\.\\(?:ods\\|xls\\|xlsx\\)$"                      .  "image petunia/x-office-spreadsheet.png")
      ("\\.\\(?:odp\\|pp|\\ppx\\)$"                        .  "image petunia/x-office-spreadsheet.png")
-     ("\\.odg$"                                           .  "image petunia/x-office-drawing.png")
-     )))
+     ("\\.odg$"                                           .  "image petunia/x-office-drawing.png") )))
 
 (custom-theme-set-faces
  'dir-treeview-petunia
@@ -93,3 +92,5 @@
 
 (provide-theme 'dir-treeview-petunia)
 (provide 'dir-treeview-petunia-theme)
+
+;; dir-treeview-petunia-theme.el ends here

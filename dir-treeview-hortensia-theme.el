@@ -71,8 +71,7 @@
      ("\\.\\(?:odt\\|doc\\|docx\\)$"                      .  "image hortensia/x-office-document.png")
      ("\\.\\(?:ods\\|xls\\|xlsx\\)$"                      .  "image hortensia/application-x-spreadsheet.png")
      ("\\.\\(?:odp\\|pp|\\ppx\\)$"                        .  "image hortensia/application-x-presentation.png")
-     ("\\.odg$"                                           .  "image hortensia/application-vnd.stardivision.draw.png")
-     )))
+     ("\\.odg$"                                           .  "image hortensia/application-vnd.stardivision.draw.png") )))
 
 (custom-theme-set-faces
  'dir-treeview-hortensia
@@ -92,3 +91,5 @@
 
 (provide-theme 'dir-treeview-hortensia)
 (provide 'dir-treeview-hortensia-theme)
+
+;;; dir-treeview-hortensia.theme.el ends here
