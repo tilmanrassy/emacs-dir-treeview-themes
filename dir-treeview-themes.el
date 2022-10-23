@@ -5,7 +5,7 @@
 ;; Author: Tilman Rassy <tilman.rassy@googlemail.com>
 ;; URL: https://github.com/tilmanrassy/emacs-dir-treeview-themes
 ;; Version: 1.0.1
-;; Package-Requires: ((emacs "24.4") (dir-treeview "1.3.2"))
+;; Package-Requires: ((emacs "24.4") (dir-treeview "1.3.3"))
 ;; Keywords: tools, convenience, files
 
 ;; This program is free software; you can redistribute it and/or modify
@@ -37,7 +37,14 @@
 
 ;;; Code:
 
-;; No code here, this file only exists to provide the meta information for package.
-;; All code is included in the theme files.
+;; Not much code here.  Most of the code is included in the theme files.
+
+(require 'dir-treeview)
+
+(dir-treeview-add-icon-dir-by-load-file-name)
+(dir-treeview-register-theme 'dir-treeview-themes-hortensia "Hortensia")
+(dir-treeview-register-theme 'dir-treeview-themes-petunia "Petunia")
+
+(provide 'dir-treeview-themes)
 
 ;;; dir-treeview-themes.el ends here

@@ -1,4 +1,4 @@
-;;; dir-treeview-hortensia-theme.el --- A dir-treeview theme with icons based on the Oxygen icon set -*- lexical-binding: t -*-
+;;; dir-treeview-themes-hortensia-theme.el --- A dir-treeview theme with icons based on the Oxygen icon set -*- lexical-binding: t -*-
 
 ;; Copyright (C) 2022 Tilman Rassy <tilman.rassy@googlemail.com>
 
@@ -25,11 +25,13 @@
 
 ;;; Code:
 
-(deftheme dir-treeview-hortensia
+(require 'dir-treeview)
+
+(deftheme dir-treeview-themes-hortensia
   "A dir-treeview theme with icons based on the Oxygen icon set.")
   
 (custom-theme-set-variables
- 'dir-treeview-hortensia
+ 'dir-treeview-themes-hortensia
  '(dir-treeview-icon-margin-right  " ")
  '(dir-treeview-default-icon                                 "image hortensia/application-x-zerosize.png")
  '(dir-treeview-folded-dir-icon                              "image hortensia/folder.png")
@@ -74,7 +76,7 @@
      ("\\.odg$"                                           .  "image hortensia/application-vnd.stardivision.draw.png") )))
 
 (custom-theme-set-faces
- 'dir-treeview-hortensia
+ 'dir-treeview-themes-hortensia
  '(dir-treeview-control-face         ((((type graphic)) . (:foreground "gray40"))))
  '(dir-treeview-indent-face          ((((type graphic)) . (:foreground "gray40"))))
  '(dir-treeview-directory-face       ((((type graphic)) . (:inherit dir-treeview-default-filename-face))))
@@ -84,12 +86,9 @@
  '(dir-treeview-image-face           ((((type graphic)) . (:inherit dir-treeview-default-filename-face))))
  '(dir-treeview-audio-face           ((((type graphic)) . (:inherit dir-treeview-default-filename-face))))
  '(dir-treeview-video-face           ((((type graphic)) . (:inherit dir-treeview-default-filename-face)))))
-  
-;;;###autoload
-(when (and (boundp 'custom-theme-load-path) load-file-name)
-  (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))
 
-(provide-theme 'dir-treeview-hortensia)
-(provide 'dir-treeview-hortensia-theme)
+(provide-theme 'dir-treeview-themes-hortensia)
 
-;;; dir-treeview-hortensia.theme.el ends here
+(provide 'dir-treeview-themes-hortensia)
+
+;;; dir-treeview-themes-hortensia-theme.el ends here

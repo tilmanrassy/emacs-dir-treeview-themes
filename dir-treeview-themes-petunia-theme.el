@@ -1,4 +1,4 @@
-;;; dir-treeview-hortensia-theme.el --- A dir-treeview theme with icons based on the Emerald and Tela icon sets -*- lexical-binding: t -*-
+;;; dir-treeview-themes-petunia-theme.el --- A dir-treeview theme with icons based on the Emerald and Tela icon sets -*- lexical-binding: t -*-
 
 ;; Copyright (C) 2022 Tilman Rassy <tilman.rassy@googlemail.com>
 
@@ -26,11 +26,11 @@
 
 ;;; Code:
 
-(deftheme dir-treeview-petunia
+(deftheme dir-treeview-themes-petunia
   "A dir-treeview theme with icons based on the Emerald and Tela icon sets.")
   
 (custom-theme-set-variables
- 'dir-treeview-petunia
+ 'dir-treeview-themes-petunia
  '(dir-treeview-icon-margin-right  " ")
  '(dir-treeview-default-icon                                 "image petunia/application-x-zerosize.png")
  '(dir-treeview-folded-dir-icon                              "image petunia/folder.png")
@@ -75,7 +75,7 @@
      ("\\.odg$"                                           .  "image petunia/x-office-drawing.png") )))
 
 (custom-theme-set-faces
- 'dir-treeview-petunia
+ 'dir-treeview-themes-petunia
  '(dir-treeview-control-face         ((((type graphic)) . (:foreground "gray40"))))
  '(dir-treeview-indent-face          ((((type graphic)) . (:foreground "gray40"))))
  '(dir-treeview-directory-face       ((((type graphic)) . (:inherit dir-treeview-default-filename-face))))
@@ -85,12 +85,8 @@
  '(dir-treeview-image-face           ((((type graphic)) . (:inherit dir-treeview-default-filename-face))))
  '(dir-treeview-audio-face           ((((type graphic)) . (:inherit dir-treeview-default-filename-face))))
  '(dir-treeview-video-face           ((((type graphic)) . (:inherit dir-treeview-default-filename-face)))))
-  
-;;;###autoload
-(when (and (boundp 'custom-theme-load-path) load-file-name)
-  (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))
 
-(provide-theme 'dir-treeview-petunia)
-(provide 'dir-treeview-petunia-theme)
+(provide-theme 'dir-treeview-themes-petunia)
+(provide 'dir-treeview-themes-petunia-theme)
 
-;; dir-treeview-petunia-theme.el ends here
+;; dir-treeview-themes-petunia-theme.el ends here
