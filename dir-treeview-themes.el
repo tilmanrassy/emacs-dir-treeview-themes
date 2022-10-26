@@ -44,8 +44,8 @@
   (error "Feature dir-treeview not provided (necessary for dir-treeview-themes)"))
 
 (dir-treeview-add-icon-dir-by-load-file-name)
-(dir-treeview-register-theme 'dir-treeview-themes-hortensia "Hortensia")
-(dir-treeview-register-theme 'dir-treeview-themes-petunia "Petunia")
+(dir-treeview-register-theme 'dir-treeview-themes-hortensia-theme "Hortensia")
+(dir-treeview-register-theme 'dir-treeview-themes-petunia-theme "Petunia")
 
 (provide 'dir-treeview-themes)
 
