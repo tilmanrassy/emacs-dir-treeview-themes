@@ -39,7 +39,9 @@
 
 ;; Not much code here.  Most of the code is included in the theme files.
 
-(require 'dir-treeview)
+
+(unless (featurep 'dir-treeview)
+  (error "Feature dir-treeview not provided (necessary for dir-treeview-themes)"))
 
 (dir-treeview-add-icon-dir-by-load-file-name)
 (dir-treeview-register-theme 'dir-treeview-themes-hortensia "Hortensia")
