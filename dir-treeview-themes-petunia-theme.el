@@ -89,4 +89,4 @@
 (provide-theme 'dir-treeview-themes-petunia)
 (provide 'dir-treeview-themes-petunia-theme)
 
-;; dir-treeview-themes-petunia-theme.el ends here
+;;; dir-treeview-themes-petunia-theme.el ends here
