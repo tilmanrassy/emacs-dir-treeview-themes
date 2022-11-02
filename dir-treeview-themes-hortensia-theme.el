@@ -26,7 +26,7 @@
 ;;; Code:
 
 (deftheme dir-treeview-themes-hortensia
-  "A dir-treeview theme with icons based on the Oxygen icon set.")
+  "A 'dir-treeview theme with icons based on the Oxygen icon set.")
   
 (custom-theme-set-variables
  'dir-treeview-themes-hortensia

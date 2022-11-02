@@ -27,7 +27,7 @@
 ;;; Code:
 
 (deftheme dir-treeview-themes-petunia
-  "A dir-treeview theme with icons based on the Emerald and Tela icon sets.")
+  "A 'dir-treeview theme with icons based on the Emerald and Tela icon sets.")
   
 (custom-theme-set-variables
  'dir-treeview-themes-petunia
