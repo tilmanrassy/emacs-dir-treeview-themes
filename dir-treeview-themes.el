@@ -39,16 +39,13 @@
 
 ;; Not much code here.  Most of the code is included in the theme files.
 
-(if (featurep 'dir-treeview)
-    (progn
-      ;; Flycheck complains here, saying that the following functions are not knwon to be defined.
-      ;; However, the functions are defined in dir-treeview, and the progn is only executed when
-      ;; dir-treeview was loaded, so it's guaranteed that the functions are defined when called.
-      (dir-treeview-add-theme-dir-by-load-file-name)
-      (dir-treeview-add-icon-dir-by-load-file-name)
-      (dir-treeview-register-theme 'dir-treeview-themes-hortensia "Hortensia")
-      (dir-treeview-register-theme 'dir-treeview-themes-petunia "Petunia")
-      (provide 'dir-treeview-themes))
-  (error "Package dir-treeview not loaded (necessary for dir-treeview-themes)"))
+(require 'dir-treeview)
+
+(dir-treeview-add-theme-dir-by-load-file-name)
+(dir-treeview-add-icon-dir-by-load-file-name)
+(dir-treeview-register-theme 'dir-treeview-themes-hortensia "Hortensia")
+(dir-treeview-register-theme 'dir-treeview-themes-petunia "Petunia")
+
+(provide 'dir-treeview-themes)
 
 ;;; dir-treeview-themes.el ends here
