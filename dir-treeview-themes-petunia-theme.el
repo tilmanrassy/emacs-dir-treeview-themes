@@ -17,9 +17,11 @@
 
 ;;; Commentary:
 
-;; A theme for the "dir-treeview" package.  Uses pixmap icons from the "Emerald"
-;; and "Tela" icon themes (see https://github.com/vinceliuice/emerald-icon-theme
-;; and https://github.com/vinceliuice/Tela-icon-theme, respectively).
+;; A theme for the "dir-treeview" package (see
+;; https://github.com/tilmanrassy/emacs-dir-treeview).
+;; Uses pixmap icons from the "Emerald" and "Tela" icon themes (see
+;; https://github.com/vinceliuice/emerald-icon-theme and
+;; https://github.com/vinceliuice/Tela-icon-theme, respectively).
 ;;
 ;; The theme is suitable for graphical displays only.  Thus, on text displays
 ;; all settings of the theme are ignored, and the theme has no effect.
@@ -27,7 +29,11 @@
 ;;; Code:
 
 (deftheme dir-treeview-themes-petunia
-  "A 'dir-treeview theme with icons based on the Emerald and Tela icon sets.")
+  "A Dir Treeview' theme with icons based on the Emerald and Tela icon sets.
+See URL `https://github.com/tilmanrassy/emacs-dir-treeview' for Dir Treeview.
+See URL `https://github.com/vinceliuice/emerald-icon-theme' for the Emerald
+icon set.
+See URL `https://github.com/vinceliuice/Tela-icon-theme' for the Tela icon set.")
   
 (custom-theme-set-variables
  'dir-treeview-themes-petunia

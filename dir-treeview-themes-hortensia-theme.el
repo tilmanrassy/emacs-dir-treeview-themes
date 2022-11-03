@@ -17,8 +17,9 @@
 
 ;;; Commentary:
 
-;; A theme for the "dir-treeview" package.  Uses pixmap icons from the "Oxygen"
-;; icon set (see https://github.com/KDE/oxygen-icons5).
+;; A theme for the "dir-treeview" package (see
+;; https://github.com/tilmanrassy/emacs-dir-treeview).  Uses pixmap icons from
+;; the "Oxygen" icon set (see https://github.com/KDE/oxygen-icons5).
 ;;
 ;; The theme is suitable for graphical displays only.  Thus, on text displays
 ;; all settings of the theme are ignored, and the theme has no effect.
@@ -26,7 +27,9 @@
 ;;; Code:
 
 (deftheme dir-treeview-themes-hortensia
-  "A 'dir-treeview theme with icons based on the Oxygen icon set.")
+  "A Dir Treeview theme with icons based on the Oxygen icon set.
+See URL `https://github.com/tilmanrassy/emacs-dir-treeview' for Dir Treeview.
+See URL `https://github.com/KDE/oxygen-icons5' for the Oxygen icon set.")
   
 (custom-theme-set-variables
  'dir-treeview-themes-hortensia
