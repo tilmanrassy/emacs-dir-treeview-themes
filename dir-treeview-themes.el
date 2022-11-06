@@ -4,7 +4,7 @@
 
 ;; Author: Tilman Rassy <tilman.rassy@googlemail.com>
 ;; URL: https://github.com/tilmanrassy/emacs-dir-treeview-themes
-;; Version: 1.0.1
+;; Version: 1.0.2
 ;; Package-Requires: ((emacs "24.4") (dir-treeview "1.3.3"))
 ;; Keywords: tools, convenience, files
 

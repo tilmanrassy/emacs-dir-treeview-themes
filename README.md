@@ -3,7 +3,7 @@ emacs-dir-treeview-themes
 
 Themes for [emacs-dir-treeview](https://github.com/tilmanrassy/emacs-dir-treeview), a file browser and manager for Emacs.
 
-This document describes version 1.0.1 of emacs-dir-treeview-themes.
+This document describes version 1.0.2 of emacs-dir-treeview-themes.
 
 * [Overview](#overview)
 * [Screenshots](#screenshots)
@@ -44,12 +44,28 @@ Screenshots
 Installation
 ------------
 
-Copy the files `dir-treeview-hortensia-theme.el` and `dir-treeview-petunia-theme.el` to somewhere in the theme load path (cf. Lisp
-variable `custom-theme-load-path`) or to somewhere in the usual load path (cf. Lisp variable `load-path`).
+### From MELPA
 
-Copy the folder `icons` to the same directory as the two theme files, so that `dir-treeview-hortensia-theme.el`, `dir-treeview-petunia-theme.el`,
-and `icons` are in the same directory (if the `icons` directory already exits, copy the two subdirectories `hortensia` and
-`petunia` of this projet's `icons` directory to the existing target `icons` directory).
+Dir-treeview-themes is available on [MELPA](https://melpa.org/). Provided MELPA is configured in your Emacs
+(see [here](https://melpa.org/#/getting-started) for more information), you can install dir-treeview-themes by typing:
+
+```
+    M-x package-install RET dir-treeview-themes RET
+```
+
+### Manual installation
+
+As a prerequisite, install [emacs-dir-treeview](https://github.com/tilmanrassy/emacs-dir-treeview).
+
+Copy the file dir-treeview-themes.el to somewhere in the load path. Optionally, byte-compile the
+file.
+
+Copy the files `dir-treeview-themes-hortensia-theme.el` and `dir-treeview-themes-petunia-theme.el` to somewhere in the theme
+load path (cf. Lisp variable `custom-theme-load-path`).
+
+Copy the folder `icons` to the same directory as the two theme files, so that `dir-treeview-themes-hortensia-theme.el`,
+`dir-treeview-themes-petunia-theme.el`, and `icons` are in the same directory (if the `icons` directory already exits, copy the
+two subdirectories `hortensia` and `petunia` of this projet's `icons` directory to the existing target `icons` directory).
 
 You can also copy the `icons` folder to any other location. In that case, add the absolute path of the copied `icons` folder to the
 `dir-treeview-icon-dir-list`. The latter is a customizable Lisp variable. You can edit it with
@@ -60,7 +76,3 @@ You can also copy the `icons` folder to any other location. In that case, add th
 
 For enabling the themes, see section  [Enabling themes](https://github.com/tilmanrassy/emacs-dir-treeview#enabling-themes) in the
 documentation of [emacs-dir-treeview](https://github.com/tilmanrassy/emacs-dir-treeview).
-
-Note: There is also a file `dir-treeview-themes.el`in the repo, but it contains no code. It only exists to provide the meta information
-for the MELPA package. It is not needed at runtime, so there is no need to install it anywhere on your computer. You can ignore it.
-
