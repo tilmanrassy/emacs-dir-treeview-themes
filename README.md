@@ -3,7 +3,7 @@ emacs-dir-treeview-themes
 
 Themes for [emacs-dir-treeview](https://github.com/tilmanrassy/emacs-dir-treeview), a file browser and manager for Emacs.
 
-This document describes version 1.0.2 of emacs-dir-treeview-themes.
+This document describes version 1.0.3 of emacs-dir-treeview-themes.
 
 * [Overview](#overview)
 * [Screenshots](#screenshots)

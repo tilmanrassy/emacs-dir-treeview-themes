@@ -1,10 +1,10 @@
 ;;; dir-treeview-themes.el --- Themes for dir-treeview -*- lexical-binding: t -*-
 
-;; Copyright (C) 2022 Tilman Rassy
+;; Copyright (C) 2022-2023 Tilman Rassy
 
 ;; Author: Tilman Rassy <tilman.rassy@googlemail.com>
 ;; URL: https://github.com/tilmanrassy/emacs-dir-treeview-themes
-;; Version: 1.0.2
+;; Version: 1.0.3
 ;; Package-Requires: ((emacs "24.4") (dir-treeview "1.3.3"))
 ;; Keywords: tools, convenience, files
 

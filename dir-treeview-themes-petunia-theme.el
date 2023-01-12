@@ -70,7 +70,7 @@ See URL `https://github.com/vinceliuice/Tela-icon-theme' for the Tela icon set."
      ("\\.h$"                                             .  "image petunia/text-x-chdr.png")
      ("\\.c$"                                             .  "image petunia/text-x-csrc.png")
      ("\\.o$"                                             .  "image petunia/application-x-cobj.png")
-     ("\\.py$"                                            .  "image petunia/text-x-python-bytecode.png")
+     ("\\.py$"                                            .  "image petunia/application-x-python-bytecode.png")
      ("\\.sql$"                                           .  "image petunia/application-x-opendoc-database.png")
      ("\\.tex$"                                           .  "image petunia/text-x-tex.png")
      ("\\.el$"                                            .  "image petunia/text-x-el.png")
